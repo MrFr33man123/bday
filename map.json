@@ -163,7 +163,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bday\/outside.json#balcony"
+                 "value":"outside.json#balcony"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bday\/outside.json#door"
+                 "value":"outside.json#door"
                 }],
          "type":"tilelayer",
          "visible":true,
