@@ -163,7 +163,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/bday\/mrfr33man123.github.io\/bday\/outside.json#balcony"
+                 "value":"bday\/outside.json#balcony"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/bday\/mrfr33man123.github.io\/bday\/outside.json#door"
+                 "value":"bday\/outside.json#door"
                 }],
          "type":"tilelayer",
          "visible":true,
