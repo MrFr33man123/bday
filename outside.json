@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"outside.json#balcony"
+                 "value":"bday\/map.json#door"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"outsinde.json#door"
+                 "value":"bday\/map.json#door_balcony"
                 }],
          "type":"tilelayer",
          "visible":true,
